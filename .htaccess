@@ -1,0 +1,4 @@
+# Bloquea archivos que no son para la web (historial de git, SQL, documentación)
+RedirectMatch 404 /\.git
+RedirectMatch 404 ^/sql/
+RedirectMatch 404 \.md$
