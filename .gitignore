@@ -1,0 +1,8 @@
+# Credenciales de la base de datos (cada entorno tiene la suya)
+includes/config.local.php
+
+# Claves SSH / AWS
+*.pem
+
+# Script de prueba con la contraseña escrita en el código
+conexion.php

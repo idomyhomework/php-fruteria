@@ -1,0 +1,2 @@
+# Los archivos de includes/ no se sirven directamente por web
+Require all denied
